@@ -1,0 +1,13 @@
+:host{
+  width: 30%;
+  height: 100%;
+  background-color: darkgray;
+  opacity: 0.5;
+  text-align: center;
+}
+
+p{
+  font-family: Arial;
+  color: black;
+  font-size: large;
+}
